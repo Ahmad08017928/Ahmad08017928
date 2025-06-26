@@ -9,7 +9,7 @@
 <p align="left">
   instagram : https://www.instagram.com/jonesatuhatun/profilecard/?igsh=MTg3ZzFpdzY2ZmJkOA==
 
-  Whatsapp : 085179810143
+  Whatsapp : https://wa.me/+6285179810143
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
